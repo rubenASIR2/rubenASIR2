@@ -10,6 +10,6 @@ Me llamo Rubén,soy de cantabria,españa.
 * Técnico en sistemas microinformáticos en redes 
 
 # posdata
-* Siempre apto a aprender más 
+* Siempre apto a aprender más a dia 25 ee septiembre
 
 
